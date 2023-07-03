@@ -1,3 +1,15 @@
+# data files
+*.tif
+*.tiff
+*.tif.aux.xml
+*.shp
+*.shx
+*.cpg
+*.dbf
+*.prj
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
